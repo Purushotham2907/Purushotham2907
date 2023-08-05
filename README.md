@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Purushotham Gayam
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m recently complted Data Analytics course
+- 🌱 I recently complted Data Analytics course
 - 📫 How to reach me purushothamgayam0966@gmail.com
 
 <!---
